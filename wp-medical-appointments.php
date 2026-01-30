@@ -3,7 +3,7 @@
  * Plugin Name: WP Medical Appointments
  * Description: Manage doctors and patient appointments for clinics.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Li
  * Text Domain: wp-medical-appointments
  */
 
